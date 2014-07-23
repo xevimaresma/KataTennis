@@ -1,0 +1,20 @@
+{
+    "name": "xevimaresma/tennis_kata",
+    "description": "Possible solution of Tennis Kata on PHP",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Xevi Maresma",
+            "email": "xevimaresma@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "":"src"
+        }
+    }
+}
